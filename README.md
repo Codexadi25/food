@@ -41,5 +41,5 @@ A sleek mobile app built with **React Native** that allows users to search for r
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/food-app.git
-cd food-app
+git clone https://github.com/tsumit02/food
+cd food
